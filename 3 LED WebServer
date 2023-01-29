@@ -44,7 +44,7 @@ digitalWrite(output26, LOW);
     delay(500);
     Serial.print(".");
   }
-  // Print local IP address and start web server
+  
   Serial.println("");
   Serial.println("WiFi connected.");
   Serial.println("IP address: ");
